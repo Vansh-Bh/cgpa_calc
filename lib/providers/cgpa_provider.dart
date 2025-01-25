@@ -158,7 +158,7 @@ class CGPAProvider extends ChangeNotifier {
       case 'D':
         return 4.0;
       case 'E':
-        return 3.0;
+        return 2.0;
       case 'NC':
       default:
         return 0.0;
